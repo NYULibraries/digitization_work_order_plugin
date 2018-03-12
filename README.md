@@ -29,7 +29,7 @@ Unzip it:
 
 Enable the plugin by editing the file in `config/config.rb`:
 
-    AppConfig[:plugins] = ['some_plugin', 'digitization_work_order']
+    AppConfig[:plugins] = ['some_plugin', 'digitization_work_order_plugin']
 
 (Make sure you uncomment this line (i.e., remove the leading '#' if present))
 
