@@ -16,7 +16,7 @@ This plugin was developed by Hudson Molonglo for New York University and Yale Un
 
 Download the latest release from the Releases tab in Github:
 
-  https://github.com/hudmol/digitization_work_order/releases
+  https://github.com/NYULibraries/digitization_work_order_plugin/releases
 
 Unzip the release and move it to:
 
@@ -67,4 +67,3 @@ To activate your new generator, edit `archivesspace/config/config.rb`, adding a 
     AppConfig[:digitization_work_order_id_generator] = 'MyClassName'
 
 Then restart ArchivesSpace. Be sure to test your generator on non-production data first!
-
