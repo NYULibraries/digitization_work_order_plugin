@@ -37,6 +37,10 @@ See also:
 
   https://github.com/archivesspace/archivesspace/blob/master/plugins/README.md
 
+  And initialize the plugin like so:
+
+      cd /path/to/archivesspace
+      scripts/initialize-plugin.sh digitization_work_order
 
 # Configuring it
 
